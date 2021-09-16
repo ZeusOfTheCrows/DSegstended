@@ -22,9 +22,9 @@ Changes:
 
 * Added some auxiliary Latin letters
 
-  * Ø, ø - u00D8, u00F8
-  * Ð, ð - u00D0, u00F0
   * Æ, æ - u00C6, u00E6
+  * Ð, ð - u00D0, u00F0
+  * Ø, ø - u00D8, u00F8
   * ß - u00DF
 
 * Added/changed various less significant punctuation marks:
@@ -40,9 +40,9 @@ Changes:
 
 * Minor letter changes 
 
-  * i - u0069: original available at ¼ - u00BC
-  * j - u006A: original available at ½ - u00BD
-  * w - u0077: original available at ¾ - u00BE
+  * i - u0069: keshikan's available at ¼ - u00BC
+  * j - u006A: keshikan's available at ½ - u00BD
+  * w - u0077: keshikan's available at ¾ - u00BE
 
 Todo:
 
