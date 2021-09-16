@@ -23,6 +23,7 @@ Changes:
 * Added some auxiliary Latin letters
 
   * Æ, æ - u00C6, u00E6
+  * Œ, œ, - u0152, u0153
   * Ð, ð - u00D0, u00F0
   * Ø, ø - u00D8, u00F8
   * ß - u00DF
@@ -45,7 +46,7 @@ Changes:
 
 Todo:
 
-* Better glyphs for Æ, æ, Ъ, Й, Ё, Ю, Ω,
+* Better glyphs for Æ, æ, œ, Ъ, Й, Ё, Ю, Ω,
 * Add glyphs for ð, þ, Þ, ₤, €, 
 * Distinction between Е and Ё
 * Tally marks? (𝍠, 𝍡, 𝍢) (for now use "_", "=", "Ξ")
