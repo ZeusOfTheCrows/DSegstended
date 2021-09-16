@@ -23,7 +23,8 @@ Changes:
 * Added some auxiliary Latin letters
 
   * Ø, ø - u00D8, u00F8
-  * Æ - u00C6
+  * Ð, ð - u00D0, u00F0
+  * Æ, æ - u00C6, u00E6
   * ß - u00DF
 
 * Added/changed various less significant punctuation marks:
@@ -46,7 +47,7 @@ Changes:
 Todo:
 
 * Better glyphs for Æ, æ, Ъ, Й, Ё, Ю, Ω,
-* Add glyphs for ð, þ, Þ, ₤, €,
+* Add glyphs for ð, þ, Þ, ₤, €, 
 * Distinction between Е and Ё
 
 -----------------------
