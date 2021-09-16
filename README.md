@@ -1,24 +1,55 @@
+#DSEG Font Family
+
 ##Modified version of keshikan's fantastic digital segment display font
 
 Changes:
 
 * Added Cyrillic alphabet (uppercase only for now)
+
 * Added Greek alphabet (uppercase only for now)
+
+* Copied Latin letters to accented Latin (no changes {for now?})
+
+* **Moved some punctuation marks to** (in my opinion) **more sensible locations**
+
+  > (this was done as i found myself writing of lot of `str.replace(" ", "!")`)
+
+  * " " - u0020: now the same width as the characters, taking the place of Exclam
+  * ; - u003B: now the blank alternative to :, taking the place of Space
+  * ! - now lower colon dot, taking the place of Hash/Octothorpe (mirroring ¡, upper colon dot)
+  * \# - now fully filled character, taking the place of tilde
+  * ~ - now duplicate of hyphen
+
+* Added some auxiliary Latin letters
+
+  * Æ - u00C6
+  * ß - u00DF
+
 * Added/changed various less significant punctuation marks:
+
   * Pilcrow
   * Tally marks
   * ¢ (cent mark)
-* Reverted some characters to older form (e.g. “S”)
-* Minor letter changes (e.g. i, j)
+
+* Reverted some characters to older form 
+
+  * S - u0053
+  *  " - u0022 (caron form is available at u21E9, downwards white arrow)
+
+* Minor letter changes 
+
+  * i - u0069
+  * j - u006A
+  * w - u0077
 
 Todo:
 
-* I'm unhappy with Æ, Ъ, Й, Ё, Ω,
+* Better glyphs for Æ, æ, Ъ, Й, Ё, Ω,
+* Add glyphs for ð, þ, Þ, ₤, €
+
+-----------------------
 
 ##Original readme proceeds:
-
-DSEG Font Family
-====
 
 ## Overview
 
