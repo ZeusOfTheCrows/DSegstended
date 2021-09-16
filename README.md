@@ -46,7 +46,8 @@ Changes:
 Todo:
 
 * Better glyphs for Æ, æ, Ъ, Й, Ё, Ю, Ω,
-* Add glyphs for ð, þ, Þ, ₤, €
+* Add glyphs for ð, þ, Þ, ₤, €,
+* Distinction between Е and Ё
 
 -----------------------
 
