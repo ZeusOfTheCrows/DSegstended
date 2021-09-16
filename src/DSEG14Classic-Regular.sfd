@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409488158
-ModificationTime: 1631807295
+ModificationTime: 1631814961
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,11 +50,11 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 875 25 9
+WinInfo: 119600 25 9
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 209715 104857 69905 930087 1048576 69905 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 938
+BeginChars: 1114112 935
 
 StartChar: uEE00
 Encoding: 60928 60928 0
@@ -11894,43 +11894,8 @@ Refer: 1 60929 N 1 0 0 1 816 0 2
 Refer: 0 60928 N 1 0 0 1 816 0 2
 EndChar
 
-StartChar: u1D372
-Encoding: 119666 119666 872
-Width: 816
-VWidth: 200
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 3 60931 S 1 0 0 1 816 0 2
-EndChar
-
-StartChar: u1D373
-Encoding: 119667 119667 873
-Width: 816
-VWidth: 200
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 7 60935 S 1 0 0 1 816 0 2
-Refer: 6 60934 S 1 0 0 1 816 0 2
-Refer: 3 60931 S 1 0 0 1 816 0 2
-EndChar
-
-StartChar: u1D374
-Encoding: 119668 119668 874
-Width: 816
-VWidth: 200
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 7 60935 S 1 0 0 1 816 0 2
-Refer: 6 60934 S 1 0 0 1 816 0 2
-Refer: 3 60931 S 1 0 0 1 816 0 2
-Refer: 0 60928 S 1 0 0 1 816 0 2
-EndChar
-
 StartChar: Agrave
-Encoding: 192 192 875
+Encoding: 192 192 872
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11946,7 +11911,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Aacute
-Encoding: 193 193 876
+Encoding: 193 193 873
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11962,7 +11927,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Acircumflex
-Encoding: 194 194 877
+Encoding: 194 194 874
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11978,7 +11943,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Atilde
-Encoding: 195 195 878
+Encoding: 195 195 875
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11994,7 +11959,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Adieresis
-Encoding: 196 196 879
+Encoding: 196 196 876
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12010,7 +11975,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Aring
-Encoding: 197 197 880
+Encoding: 197 197 877
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12026,7 +11991,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Ccedilla
-Encoding: 199 199 881
+Encoding: 199 199 878
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12039,7 +12004,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Egrave
-Encoding: 200 200 882
+Encoding: 200 200 879
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12054,7 +12019,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Eacute
-Encoding: 201 201 883
+Encoding: 201 201 880
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12069,7 +12034,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Ecircumflex
-Encoding: 202 202 884
+Encoding: 202 202 881
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12084,7 +12049,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Edieresis
-Encoding: 203 203 885
+Encoding: 203 203 882
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12099,7 +12064,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Igrave
-Encoding: 204 204 886
+Encoding: 204 204 883
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12112,7 +12077,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Iacute
-Encoding: 205 205 887
+Encoding: 205 205 884
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12125,7 +12090,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Icircumflex
-Encoding: 206 206 888
+Encoding: 206 206 885
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12138,7 +12103,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Idieresis
-Encoding: 207 207 889
+Encoding: 207 207 886
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12151,7 +12116,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Eth
-Encoding: 208 208 890
+Encoding: 208 208 887
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12167,7 +12132,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: AE
-Encoding: 198 198 891
+Encoding: 198 198 888
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12184,7 +12149,7 @@ Refer: 0 60928 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Ntilde
-Encoding: 209 209 892
+Encoding: 209 209 889
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12199,7 +12164,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Ograve
-Encoding: 210 210 893
+Encoding: 210 210 890
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12214,7 +12179,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Oacute
-Encoding: 211 211 894
+Encoding: 211 211 891
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12229,7 +12194,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Otilde
-Encoding: 213 213 895
+Encoding: 213 213 892
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12244,7 +12209,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Ocircumflex
-Encoding: 212 212 896
+Encoding: 212 212 893
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12259,7 +12224,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Odieresis
-Encoding: 214 214 897
+Encoding: 214 214 894
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12274,7 +12239,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Oslash
-Encoding: 216 216 898
+Encoding: 216 216 895
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12291,7 +12256,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Ugrave
-Encoding: 217 217 899
+Encoding: 217 217 896
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12305,7 +12270,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Uacute
-Encoding: 218 218 900
+Encoding: 218 218 897
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12319,7 +12284,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 219 219 901
+Encoding: 219 219 898
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12333,7 +12298,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Udieresis
-Encoding: 220 220 902
+Encoding: 220 220 899
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12347,7 +12312,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Yacute
-Encoding: 221 221 903
+Encoding: 221 221 900
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12359,7 +12324,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: germandbls
-Encoding: 223 223 904
+Encoding: 223 223 901
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12373,7 +12338,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: agrave
-Encoding: 224 224 905
+Encoding: 224 224 902
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12386,7 +12351,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: aacute
-Encoding: 225 225 906
+Encoding: 225 225 903
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12399,7 +12364,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: acircumflex
-Encoding: 226 226 907
+Encoding: 226 226 904
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12412,7 +12377,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: atilde
-Encoding: 227 227 908
+Encoding: 227 227 905
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12425,7 +12390,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: adieresis
-Encoding: 228 228 909
+Encoding: 228 228 906
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12438,7 +12403,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: aring
-Encoding: 229 229 910
+Encoding: 229 229 907
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12451,7 +12416,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ae
-Encoding: 230 230 911
+Encoding: 230 230 908
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12466,7 +12431,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ccedilla
-Encoding: 231 231 912
+Encoding: 231 231 909
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12479,7 +12444,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: egrave
-Encoding: 232 232 913
+Encoding: 232 232 910
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12492,7 +12457,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: eacute
-Encoding: 233 233 914
+Encoding: 233 233 911
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12505,7 +12470,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ecircumflex
-Encoding: 234 234 915
+Encoding: 234 234 912
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12518,7 +12483,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: edieresis
-Encoding: 235 235 916
+Encoding: 235 235 913
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12531,7 +12496,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: igrave
-Encoding: 236 236 917
+Encoding: 236 236 914
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12542,7 +12507,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: iacute
-Encoding: 237 237 918
+Encoding: 237 237 915
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12553,7 +12518,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: icircumflex
-Encoding: 238 238 919
+Encoding: 238 238 916
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12564,7 +12529,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: idieresis
-Encoding: 239 239 920
+Encoding: 239 239 917
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12575,7 +12540,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: eth
-Encoding: 240 240 921
+Encoding: 240 240 918
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12590,7 +12555,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ograve
-Encoding: 242 242 922
+Encoding: 242 242 919
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12604,7 +12569,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: oacute
-Encoding: 243 243 923
+Encoding: 243 243 920
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12618,7 +12583,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ocircumflex
-Encoding: 244 244 924
+Encoding: 244 244 921
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12632,7 +12597,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: otilde
-Encoding: 245 245 925
+Encoding: 245 245 922
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12646,7 +12611,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: odieresis
-Encoding: 246 246 926
+Encoding: 246 246 923
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12660,7 +12625,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ntilde
-Encoding: 241 241 927
+Encoding: 241 241 924
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12672,7 +12637,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: oslash
-Encoding: 248 248 928
+Encoding: 248 248 925
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12687,7 +12652,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ugrave
-Encoding: 249 249 929
+Encoding: 249 249 926
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12699,7 +12664,7 @@ Refer: 4 60932 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: uacute
-Encoding: 250 250 930
+Encoding: 250 250 927
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12711,7 +12676,7 @@ Refer: 4 60932 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ucircumflex
-Encoding: 251 251 931
+Encoding: 251 251 928
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12723,7 +12688,7 @@ Refer: 4 60932 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: udieresis
-Encoding: 252 252 932
+Encoding: 252 252 929
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12735,7 +12700,7 @@ Refer: 4 60932 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: yacute
-Encoding: 253 253 933
+Encoding: 253 253 930
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12749,7 +12714,7 @@ Refer: 8 60936 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ydieresis
-Encoding: 255 255 934
+Encoding: 255 255 931
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12763,7 +12728,7 @@ Refer: 8 60936 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: onequarter
-Encoding: 188 188 935
+Encoding: 188 188 932
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12773,7 +12738,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: onehalf
-Encoding: 189 189 936
+Encoding: 189 189 933
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12785,7 +12750,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: threequarters
-Encoding: 190 190 937
+Encoding: 190 190 934
 Width: 816
 VWidth: 200
 Flags: HW

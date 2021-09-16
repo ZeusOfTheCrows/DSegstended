@@ -30,7 +30,6 @@ Changes:
 * Added/changed various less significant punctuation marks:
 
   * Pilcrow
-  * Tally marks
   * ¢ (cent mark)
 
 * Reverted some characters to older form 
@@ -49,6 +48,7 @@ Todo:
 * Better glyphs for Æ, æ, Ъ, Й, Ё, Ю, Ω,
 * Add glyphs for ð, þ, Þ, ₤, €, 
 * Distinction between Е and Ё
+* Tally marks? (𝍠, 𝍡, 𝍢) (for now use "_", "=", "Ξ")
 
 -----------------------
 
