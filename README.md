@@ -22,6 +22,7 @@ Changes:
 
 * Added some auxiliary Latin letters
 
+  * Ø, ø - u00D8, u00F8
   * Æ - u00C6
   * ß - u00DF
 
@@ -38,13 +39,13 @@ Changes:
 
 * Minor letter changes 
 
-  * i - u0069
-  * j - u006A
-  * w - u0077
+  * i - u0069: original available at ¼ - u00BC
+  * j - u006A: original available at ½ - u00BD
+  * w - u0077: original available at ¾ - u00BE
 
 Todo:
 
-* Better glyphs for Æ, æ, Ъ, Й, Ё, Ω,
+* Better glyphs for Æ, æ, Ъ, Й, Ё, Ю, Ω,
 * Add glyphs for ð, þ, Þ, ₤, €
 
 -----------------------

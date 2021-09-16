@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409488158
-ModificationTime: 1631798941
+ModificationTime: 1631800824
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,11 +50,11 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 20
+WinInfo: 650 25 20
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 209715 104857 69905 930087 1048576 69905 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 937
+BeginChars: 1114112 938
 
 StartChar: uEE00
 Encoding: 60928 60928 0
@@ -11439,7 +11439,7 @@ Refer: 2 60930 N 1 0 0 1 816 0 2
 Refer: 3 60931 N 1 0 0 1 816 0 2
 Refer: 4 60932 N 1 0 0 1 816 0 2
 Refer: 5 60933 N 1 0 0 1 816 0 2
-Refer: 9 60937 N 1 0 0 1 816 0 2
+Refer: 9 60937 S 1 0 0 1 816 0 2
 Refer: 12 60940 N 1 0 0 1 816 0 2
 Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
@@ -11448,12 +11448,13 @@ StartChar: afii10044
 Encoding: 1066 1066 841
 Width: 816
 VWidth: 200
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
+Refer: 9 60937 S 1 0 0 1 816 0 2
 Refer: 2 60930 N 1 0 0 1 816 0 2
 Refer: 3 60931 N 1 0 0 1 816 0 2
-Refer: 7 60935 S 1 0 0 1 816 0 2
+Refer: 7 60935 N 1 0 0 1 816 0 2
 Refer: 8 60936 N 1 0 0 1 816 0 2
 Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
@@ -12747,8 +12748,22 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 Refer: 8 60936 N 1 0 0 1 816 0 2
 EndChar
 
+StartChar: ydieresis
+Encoding: 255 255 934
+Width: 816
+VWidth: 200
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 60929 N 1 0 0 1 816 0 2
+Refer: 2 60930 N 1 0 0 1 816 0 2
+Refer: 3 60931 N 1 0 0 1 816 0 2
+Refer: 7 60935 N 1 0 0 1 816 0 2
+Refer: 8 60936 N 1 0 0 1 816 0 2
+EndChar
+
 StartChar: onequarter
-Encoding: 188 188 934
+Encoding: 188 188 935
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12758,7 +12773,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: onehalf
-Encoding: 189 189 935
+Encoding: 189 189 936
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12770,10 +12785,10 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: threequarters
-Encoding: 190 190 936
+Encoding: 190 190 937
 Width: 816
 VWidth: 200
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 2 60930 N 1 0 0 1 816 0 2
