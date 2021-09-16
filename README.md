@@ -1,8 +1,8 @@
-#DSEG Font Family
+# DSEG Font Family
 
-##Modified version of keshikan's fantastic digital segment display font
+## Modified version of keshikan's fantastic digital segment display font
 
-Changes:
+### Changes:
 
 * Added Cyrillic alphabet (uppercase only for now)
 
@@ -44,16 +44,16 @@ Changes:
   * j - u006A: keshikan's available at ½ - u00BD
   * w - u0077: keshikan's available at ¾ - u00BE
 
-Todo:
+### Todo:
 
 * Better glyphs for Æ, æ, œ, Ъ, Й, Ё, Ю, Ω,
 * Add glyphs for ð, þ, Þ, ₤, €, 
 * Distinction between Е and Ё
 * Tally marks? (𝍠, 𝍡, 𝍢) (for now use "_", "=", "Ξ")
 
------------------------
+---
 
-##Original readme proceeds:
+## Original readme proceeds:
 
 ## Overview
 
@@ -130,7 +130,7 @@ Install [FontForge](https://fontforge.github.io/en-US/) and [Google woff2](https
 
  - [v0.44(2018-01-02)](https://github.com/keshikan/DSEG/archive/v0.44.zip)
     - Modified colon character position for balancing in Italic style. See below.  
-  ![DSEG v044](http://www.keshikan.net/img/dseg_mod_v044.png)
+    ![DSEG v044](http://www.keshikan.net/img/dseg_mod_v044.png)
     - Added License metadata to *.ttf .
     - Changed file name of *.sfd to match it's font-name.
   
