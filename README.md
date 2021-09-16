@@ -1,3 +1,22 @@
+##Modified version of keshikan's fantastic digital segment display font
+
+Changes:
+
+* Added Cyrillic alphabet (uppercase only for now)
+* Added Greek alphabet (uppercase only for now)
+* Added/changed various less significant punctuation marks:
+  * Pilcrow
+  * Tally marks
+  * ¢ (cent mark)
+* Reverted some characters to older form (e.g. “S”)
+* Minor letter changes (e.g. i, j)
+
+Todo:
+
+* I'm unhappy with Æ, Ъ, Й, Ё, Ω,
+
+##Original readme proceeds:
+
 DSEG Font Family
 ====
 
@@ -56,7 +75,7 @@ Install [FontForge](https://fontforge.github.io/en-US/) and [Google woff2](https
 
 ### Install in Ubuntu(18.04 or later)
     $ sudo apt-get install fonts-dseg
-    
+
 ### Install from npm
     $ npm i dseg
 
@@ -76,7 +95,7 @@ Install [FontForge](https://fontforge.github.io/en-US/) and [Google woff2](https
 
  - [v0.44(2018-01-02)](https://github.com/keshikan/DSEG/archive/v0.44.zip)
     - Modified colon character position for balancing in Italic style. See below.  
-![DSEG v044](http://www.keshikan.net/img/dseg_mod_v044.png)
+  ![DSEG v044](http://www.keshikan.net/img/dseg_mod_v044.png)
     - Added License metadata to *.ttf .
     - Changed file name of *.sfd to match it's font-name.
   
