@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409488158
-ModificationTime: 1631884340
+ModificationTime: 1631887962
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -11127,7 +11127,6 @@ Refer: 2 60930 N 1 0 0 1 816 0 2
 Refer: 3 60931 N 1 0 0 1 816 0 2
 Refer: 4 60932 N 1 0 0 1 816 0 2
 Refer: 5 60933 N 1 0 0 1 816 0 2
-Refer: 6 60934 N 1 0 0 1 816 0 2
 Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
@@ -11290,6 +11289,8 @@ VWidth: 200
 Flags: HW
 LayerCount: 2
 Fore
+Refer: 1 60929 S 1 0 0 1 816 0 2
+Refer: 5 60933 S 1 0 0 1 816 0 2
 Refer: 8 60936 N 1 0 0 1 816 0 2
 Refer: 10 60938 N 1 0 0 1 816 0 2
 Refer: 12 60940 N 1 0 0 1 816 0 2
@@ -12840,7 +12841,6 @@ Refer: 2 60930 N 1 0 0 1 816 0 2
 Refer: 3 60931 N 1 0 0 1 816 0 2
 Refer: 4 60932 N 1 0 0 1 816 0 2
 Refer: 5 60933 N 1 0 0 1 816 0 2
-Refer: 6 60934 N 1 0 0 1 816 0 2
 Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
@@ -12950,10 +12950,10 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 60928 N 1 0 0 1 816 0 2
-Refer: 1 60929 N 1 0 0 1 816 0 2
+Refer: 1 60929 S 1 0 0 1 816 0 2
 Refer: 2 60930 N 1 0 0 1 816 0 2
 Refer: 4 60932 N 1 0 0 1 816 0 2
-Refer: 5 60933 N 1 0 0 1 816 0 2
+Refer: 5 60933 S 1 0 0 1 816 0 2
 EndChar
 
 StartChar: rho
@@ -13016,6 +13016,8 @@ VWidth: 200
 Flags: HW
 LayerCount: 2
 Fore
+Refer: 1 60929 S 1 0 0 1 816 0 2
+Refer: 5 60933 S 1 0 0 1 816 0 2
 Refer: 8 60936 N 1 0 0 1 816 0 2
 Refer: 10 60938 N 1 0 0 1 816 0 2
 Refer: 12 60940 N 1 0 0 1 816 0 2
