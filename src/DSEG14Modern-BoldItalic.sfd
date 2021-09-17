@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409488158
-ModificationTime: 1631892694
+ModificationTime: 1631894481
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1127,8 +1127,11 @@ Fore
 Refer: 0 60928 N 1 0 0 1 816 0 2
 Refer: 2 60930 N 1 0 0 1 816 0 2
 Refer: 3 60931 N 1 0 0 1 816 0 2
+Refer: 5 60933 N 1 0 0 1 816 0 2
+Refer: 6 60934 N 1 0 0 1 816 0 2
 Refer: 7 60935 N 1 0 0 1 816 0 2
 Refer: 8 60936 N 1 0 0 1 816 0 2
+Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: u0054
@@ -13028,7 +13031,7 @@ StartChar: afii10049
 Encoding: 1071 1071 955
 Width: 816
 VWidth: 200
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 60928 N 1 0 0 1 816 0 2
