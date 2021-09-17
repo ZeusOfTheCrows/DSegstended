@@ -33,16 +33,16 @@
   * Pilcrow
   * ¢ (cent mark)
 
-* Reverted some characters to older form 
+* Changed the form of some characters 
 
-  * S - u0053
-  *  " - u0022 (caron form is available at u21E9, downwards white arrow)
+  > (keshikan's version available at uFF10 – uFF5E, fullwidth latin block)
 
-* Minor letter changes 
+  * S - u0053: reverted to older form
+  *  " - u0022: changed to vertical (caron form is available at u21E9, downwards white arrow)
 
-  * i - u0069: keshikan's available at ¼ - u00BC
-  * j - u006A: keshikan's available at ½ - u00BD
-  * w - u0077: keshikan's available at ¾ - u00BE
+  * i - u0069: added tittle
+  * j - u006A: changed form, added tittle
+  * w - u0077: changed to rounded form
 
 ### Todo:
 
@@ -50,6 +50,13 @@
 * Add glyphs for ð, þ, Þ, ₤, €, 
 * Distinction between Е and Ё
 * Tally marks? (𝍠, 𝍡, 𝍢) (for now use "_", "=", "Ξ")
+* Box drawing characters? (ascii extended)
+* Alternative letterforms in fullwidþ block
+  * 1, 2, 3, 5, 7, 
+  * G, J, M, S, W, Y, Z,
+  * i, j, w, 
+
+### additionally, changed to semantic versioning system, as i find that easier to deal with
 
 ---
 
