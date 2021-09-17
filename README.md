@@ -44,6 +44,10 @@
   * j - u006A: changed form, added tittle
   * w - u0077: changed to rounded form
 
+### additionally, changed to semantic versioning system, as i find that easier to deal with
+
+---
+
 ### Todo:
 
 * Better glyphs for Æ, æ, œ, Ъ, Й, Ё, Ю, Ω,
@@ -55,8 +59,6 @@
   * 1, 2, 3, 5, 7, 
   * G, J, M, S, W, Y, Z,
   * i, j, w, 
-
-### additionally, changed to semantic versioning system, as i find that easier to deal with
 
 ---
 
