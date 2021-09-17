@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409488158
-ModificationTime: 1631827381
+ModificationTime: 1631884398
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -50,11 +50,11 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 20
+WinInfo: 700 25 20
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 209715 104857 69905 930087 1048576 69905 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 994
+BeginChars: 1114112 991
 
 StartChar: uEE00
 Encoding: 60928 60928 0
@@ -11029,43 +11029,8 @@ Refer: 6 60934 N 1 0 0 1 816 0 2
 Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
-StartChar: onequarter
-Encoding: 188 188 813
-Width: 816
-VWidth: 200
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 12 60940 N 1 0 0 1 816 0 2
-EndChar
-
-StartChar: onehalf
-Encoding: 189 189 814
-Width: 816
-VWidth: 200
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 1 60929 N 1 0 0 1 816 0 2
-Refer: 2 60930 N 1 0 0 1 816 0 2
-Refer: 13 60941 N 1 0 0 1 816 0 2
-EndChar
-
-StartChar: threequarters
-Encoding: 190 190 815
-Width: 816
-VWidth: 200
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 2 60930 N 1 0 0 1 816 0 2
-Refer: 4 60932 N 1 0 0 1 816 0 2
-Refer: 11 60939 N 1 0 0 1 816 0 2
-Refer: 13 60941 N 1 0 0 1 816 0 2
-EndChar
-
 StartChar: Agrave
-Encoding: 192 192 816
+Encoding: 192 192 813
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11081,7 +11046,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Aacute
-Encoding: 193 193 817
+Encoding: 193 193 814
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11097,7 +11062,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Acircumflex
-Encoding: 194 194 818
+Encoding: 194 194 815
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11113,7 +11078,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Atilde
-Encoding: 195 195 819
+Encoding: 195 195 816
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11129,7 +11094,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Adieresis
-Encoding: 196 196 820
+Encoding: 196 196 817
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11145,7 +11110,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Aring
-Encoding: 197 197 821
+Encoding: 197 197 818
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11161,7 +11126,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Egrave
-Encoding: 200 200 822
+Encoding: 200 200 819
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11176,7 +11141,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Eacute
-Encoding: 201 201 823
+Encoding: 201 201 820
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11191,7 +11156,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Ecircumflex
-Encoding: 202 202 824
+Encoding: 202 202 821
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11206,7 +11171,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Edieresis
-Encoding: 203 203 825
+Encoding: 203 203 822
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11221,7 +11186,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Igrave
-Encoding: 204 204 826
+Encoding: 204 204 823
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11234,7 +11199,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Iacute
-Encoding: 205 205 827
+Encoding: 205 205 824
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11247,7 +11212,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Icircumflex
-Encoding: 206 206 828
+Encoding: 206 206 825
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11260,7 +11225,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Idieresis
-Encoding: 207 207 829
+Encoding: 207 207 826
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11273,7 +11238,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Eth
-Encoding: 208 208 830
+Encoding: 208 208 827
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11289,7 +11254,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Ntilde
-Encoding: 209 209 831
+Encoding: 209 209 828
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11304,7 +11269,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Ograve
-Encoding: 210 210 832
+Encoding: 210 210 829
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11319,7 +11284,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Oacute
-Encoding: 211 211 833
+Encoding: 211 211 830
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11334,7 +11299,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Ocircumflex
-Encoding: 212 212 834
+Encoding: 212 212 831
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11349,7 +11314,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Otilde
-Encoding: 213 213 835
+Encoding: 213 213 832
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11364,7 +11329,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Odieresis
-Encoding: 214 214 836
+Encoding: 214 214 833
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11379,7 +11344,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Oslash
-Encoding: 216 216 837
+Encoding: 216 216 834
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11396,7 +11361,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Ugrave
-Encoding: 217 217 838
+Encoding: 217 217 835
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11410,7 +11375,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Uacute
-Encoding: 218 218 839
+Encoding: 218 218 836
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11424,7 +11389,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 219 219 840
+Encoding: 219 219 837
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11438,7 +11403,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Udieresis
-Encoding: 220 220 841
+Encoding: 220 220 838
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11452,7 +11417,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Yacute
-Encoding: 221 221 842
+Encoding: 221 221 839
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11464,7 +11429,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: germandbls
-Encoding: 223 223 843
+Encoding: 223 223 840
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11478,7 +11443,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: agrave
-Encoding: 224 224 844
+Encoding: 224 224 841
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11491,7 +11456,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: aacute
-Encoding: 225 225 845
+Encoding: 225 225 842
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11504,7 +11469,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: acircumflex
-Encoding: 226 226 846
+Encoding: 226 226 843
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11517,7 +11482,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: atilde
-Encoding: 227 227 847
+Encoding: 227 227 844
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11530,7 +11495,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: adieresis
-Encoding: 228 228 848
+Encoding: 228 228 845
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11543,7 +11508,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: aring
-Encoding: 229 229 849
+Encoding: 229 229 846
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11556,7 +11521,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ccedilla
-Encoding: 231 231 850
+Encoding: 231 231 847
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11569,7 +11534,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: egrave
-Encoding: 232 232 851
+Encoding: 232 232 848
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11582,7 +11547,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: eacute
-Encoding: 233 233 852
+Encoding: 233 233 849
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11595,7 +11560,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ecircumflex
-Encoding: 234 234 853
+Encoding: 234 234 850
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11608,7 +11573,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: edieresis
-Encoding: 235 235 854
+Encoding: 235 235 851
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11621,7 +11586,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: igrave
-Encoding: 236 236 855
+Encoding: 236 236 852
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11632,7 +11597,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: iacute
-Encoding: 237 237 856
+Encoding: 237 237 853
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11643,7 +11608,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: icircumflex
-Encoding: 238 238 857
+Encoding: 238 238 854
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11654,7 +11619,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: idieresis
-Encoding: 239 239 858
+Encoding: 239 239 855
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11665,7 +11630,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: eth
-Encoding: 240 240 859
+Encoding: 240 240 856
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11680,7 +11645,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ntilde
-Encoding: 241 241 860
+Encoding: 241 241 857
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11692,7 +11657,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ograve
-Encoding: 242 242 861
+Encoding: 242 242 858
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11706,7 +11671,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: oacute
-Encoding: 243 243 862
+Encoding: 243 243 859
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11720,7 +11685,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ocircumflex
-Encoding: 244 244 863
+Encoding: 244 244 860
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11734,7 +11699,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: otilde
-Encoding: 245 245 864
+Encoding: 245 245 861
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11748,7 +11713,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: odieresis
-Encoding: 246 246 865
+Encoding: 246 246 862
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11762,7 +11727,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: oslash
-Encoding: 248 248 866
+Encoding: 248 248 863
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11777,7 +11742,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ugrave
-Encoding: 249 249 867
+Encoding: 249 249 864
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11789,7 +11754,7 @@ Refer: 4 60932 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: uacute
-Encoding: 250 250 868
+Encoding: 250 250 865
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11801,7 +11766,7 @@ Refer: 4 60932 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ucircumflex
-Encoding: 251 251 869
+Encoding: 251 251 866
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11813,7 +11778,7 @@ Refer: 4 60932 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: udieresis
-Encoding: 252 252 870
+Encoding: 252 252 867
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11825,7 +11790,7 @@ Refer: 4 60932 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: yacute
-Encoding: 253 253 871
+Encoding: 253 253 868
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11839,7 +11804,7 @@ Refer: 8 60936 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ydieresis
-Encoding: 255 255 872
+Encoding: 255 255 869
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11853,7 +11818,7 @@ Refer: 8 60936 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Alpha
-Encoding: 913 913 873
+Encoding: 913 913 870
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11867,7 +11832,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Beta
-Encoding: 914 914 874
+Encoding: 914 914 871
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11883,7 +11848,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Gamma
-Encoding: 915 915 875
+Encoding: 915 915 872
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11895,7 +11860,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: uni0394
-Encoding: 916 916 876
+Encoding: 916 916 873
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11909,7 +11874,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Epsilon
-Encoding: 917 917 877
+Encoding: 917 917 874
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11924,7 +11889,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Zeta
-Encoding: 918 918 878
+Encoding: 918 918 875
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11937,7 +11902,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Eta
-Encoding: 919 919 879
+Encoding: 919 919 876
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11952,7 +11917,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Theta
-Encoding: 920 920 880
+Encoding: 920 920 877
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11969,7 +11934,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Iota
-Encoding: 921 921 881
+Encoding: 921 921 878
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11982,7 +11947,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Kappa
-Encoding: 922 922 882
+Encoding: 922 922 879
 Width: 816
 VWidth: 200
 Flags: HW
@@ -11996,7 +11961,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Lambda
-Encoding: 923 923 883
+Encoding: 923 923 880
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12009,7 +11974,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Mu
-Encoding: 924 924 884
+Encoding: 924 924 881
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12024,7 +11989,7 @@ Refer: 10 60938 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Nu
-Encoding: 925 925 885
+Encoding: 925 925 882
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12039,7 +12004,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Xi
-Encoding: 926 926 886
+Encoding: 926 926 883
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12052,7 +12017,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Omicron
-Encoding: 927 927 887
+Encoding: 927 927 884
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12067,7 +12032,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Pi
-Encoding: 928 928 888
+Encoding: 928 928 885
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12081,7 +12046,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Rho
-Encoding: 929 929 889
+Encoding: 929 929 886
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12096,7 +12061,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Sigma
-Encoding: 931 931 890
+Encoding: 931 931 887
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12109,7 +12074,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Tau
-Encoding: 932 932 891
+Encoding: 932 932 888
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12121,7 +12086,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Upsilon
-Encoding: 933 933 892
+Encoding: 933 933 889
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12133,7 +12098,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Phi
-Encoding: 934 934 893
+Encoding: 934 934 890
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12150,7 +12115,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Chi
-Encoding: 935 935 894
+Encoding: 935 935 891
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12163,7 +12128,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: Psi
-Encoding: 936 936 895
+Encoding: 936 936 892
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12178,7 +12143,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: uni03A9
-Encoding: 937 937 896
+Encoding: 937 937 893
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12194,7 +12159,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10017
-Encoding: 1040 1040 897
+Encoding: 1040 1040 894
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12210,7 +12175,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10018
-Encoding: 1041 1041 898
+Encoding: 1041 1041 895
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12225,7 +12190,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10019
-Encoding: 1042 1042 899
+Encoding: 1042 1042 896
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12241,7 +12206,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10020
-Encoding: 1043 1043 900
+Encoding: 1043 1043 897
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12253,7 +12218,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10021
-Encoding: 1044 1044 901
+Encoding: 1044 1044 898
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12267,7 +12232,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10022
-Encoding: 1045 1045 902
+Encoding: 1045 1045 899
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12282,7 +12247,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10024
-Encoding: 1046 1046 903
+Encoding: 1046 1046 900
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12299,7 +12264,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10025
-Encoding: 1047 1047 904
+Encoding: 1047 1047 901
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12313,7 +12278,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10026
-Encoding: 1048 1048 905
+Encoding: 1048 1048 902
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12330,7 +12295,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10027
-Encoding: 1049 1049 906
+Encoding: 1049 1049 903
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12348,7 +12313,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10028
-Encoding: 1050 1050 907
+Encoding: 1050 1050 904
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12362,7 +12327,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10029
-Encoding: 1051 1051 908
+Encoding: 1051 1051 905
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12375,7 +12340,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10030
-Encoding: 1052 1052 909
+Encoding: 1052 1052 906
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12390,7 +12355,7 @@ Refer: 10 60938 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10031
-Encoding: 1053 1053 910
+Encoding: 1053 1053 907
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12405,7 +12370,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10032
-Encoding: 1054 1054 911
+Encoding: 1054 1054 908
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12420,7 +12385,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10033
-Encoding: 1055 1055 912
+Encoding: 1055 1055 909
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12434,7 +12399,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10034
-Encoding: 1056 1056 913
+Encoding: 1056 1056 910
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12449,7 +12414,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10035
-Encoding: 1057 1057 914
+Encoding: 1057 1057 911
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12462,7 +12427,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10036
-Encoding: 1058 1058 915
+Encoding: 1058 1058 912
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12476,7 +12441,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10037
-Encoding: 1059 1059 916
+Encoding: 1059 1059 913
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12491,7 +12456,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10038
-Encoding: 1060 1060 917
+Encoding: 1060 1060 914
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12508,7 +12473,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10039
-Encoding: 1061 1061 918
+Encoding: 1061 1061 915
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12521,7 +12486,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10040
-Encoding: 1062 1062 919
+Encoding: 1062 1062 916
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12536,7 +12501,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10041
-Encoding: 1063 1063 920
+Encoding: 1063 1063 917
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12550,7 +12515,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10042
-Encoding: 1064 1064 921
+Encoding: 1064 1064 918
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12566,7 +12531,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10043
-Encoding: 1065 1065 922
+Encoding: 1065 1065 919
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12583,7 +12548,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10044
-Encoding: 1066 1066 923
+Encoding: 1066 1066 920
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12598,7 +12563,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10045
-Encoding: 1067 1067 924
+Encoding: 1067 1067 921
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12614,7 +12579,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10046
-Encoding: 1068 1068 925
+Encoding: 1068 1068 922
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12629,7 +12594,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10047
-Encoding: 1069 1069 926
+Encoding: 1069 1069 923
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12639,12 +12604,11 @@ Refer: 0 60928 N 1 0 0 1 816 0 2
 Refer: 1 60929 N 1 0 0 1 816 0 2
 Refer: 2 60930 N 1 0 0 1 816 0 2
 Refer: 3 60931 N 1 0 0 1 816 0 2
-Refer: 6 60934 N 1 0 0 1 816 0 2
 Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10048
-Encoding: 1070 1070 927
+Encoding: 1070 1070 924
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12660,7 +12624,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10049
-Encoding: 1071 1071 928
+Encoding: 1071 1071 925
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12676,7 +12640,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10023
-Encoding: 1025 1025 929
+Encoding: 1025 1025 926
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12691,7 +12655,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: AE
-Encoding: 198 198 930
+Encoding: 198 198 927
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12708,7 +12672,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: ae
-Encoding: 230 230 931
+Encoding: 230 230 928
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12723,7 +12687,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: paragraph
-Encoding: 182 182 932
+Encoding: 182 182 929
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12740,7 +12704,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: cent
-Encoding: 162 162 933
+Encoding: 162 162 930
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12755,7 +12719,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: alpha
-Encoding: 945 945 934
+Encoding: 945 945 931
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12769,7 +12733,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: beta
-Encoding: 946 946 935
+Encoding: 946 946 932
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12785,7 +12749,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: gamma
-Encoding: 947 947 936
+Encoding: 947 947 933
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12797,7 +12761,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: delta
-Encoding: 948 948 937
+Encoding: 948 948 934
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12811,7 +12775,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: epsilon
-Encoding: 949 949 938
+Encoding: 949 949 935
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12826,7 +12790,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: zeta
-Encoding: 950 950 939
+Encoding: 950 950 936
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12839,7 +12803,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: eta
-Encoding: 951 951 940
+Encoding: 951 951 937
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12854,7 +12818,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: theta
-Encoding: 952 952 941
+Encoding: 952 952 938
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12871,7 +12835,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: iota
-Encoding: 953 953 942
+Encoding: 953 953 939
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12884,7 +12848,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: kappa
-Encoding: 954 954 943
+Encoding: 954 954 940
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12898,7 +12862,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: lambda
-Encoding: 955 955 944
+Encoding: 955 955 941
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12911,7 +12875,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: uni03BC
-Encoding: 956 956 945
+Encoding: 956 956 942
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12926,7 +12890,7 @@ Refer: 10 60938 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: nu
-Encoding: 957 957 946
+Encoding: 957 957 943
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12941,7 +12905,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: xi
-Encoding: 958 958 947
+Encoding: 958 958 944
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12954,7 +12918,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: omicron
-Encoding: 959 959 948
+Encoding: 959 959 945
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12969,7 +12933,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: pi
-Encoding: 960 960 949
+Encoding: 960 960 946
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12983,7 +12947,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: rho
-Encoding: 961 961 950
+Encoding: 961 961 947
 Width: 816
 VWidth: 200
 Flags: HW
@@ -12998,7 +12962,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: sigma1
-Encoding: 962 962 951
+Encoding: 962 962 948
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13011,7 +12975,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: sigma
-Encoding: 963 963 952
+Encoding: 963 963 949
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13024,7 +12988,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: tau
-Encoding: 964 964 953
+Encoding: 964 964 950
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13036,7 +13000,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: upsilon
-Encoding: 965 965 954
+Encoding: 965 965 951
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13048,7 +13012,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: phi
-Encoding: 966 966 955
+Encoding: 966 966 952
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13065,7 +13029,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: chi
-Encoding: 967 967 956
+Encoding: 967 967 953
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13078,7 +13042,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: psi
-Encoding: 968 968 957
+Encoding: 968 968 954
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13093,7 +13057,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: omega
-Encoding: 969 969 958
+Encoding: 969 969 955
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13109,7 +13073,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10065
-Encoding: 1072 1072 959
+Encoding: 1072 1072 956
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13125,7 +13089,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10066
-Encoding: 1073 1073 960
+Encoding: 1073 1073 957
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13140,7 +13104,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10067
-Encoding: 1074 1074 961
+Encoding: 1074 1074 958
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13156,7 +13120,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10068
-Encoding: 1075 1075 962
+Encoding: 1075 1075 959
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13168,7 +13132,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10069
-Encoding: 1076 1076 963
+Encoding: 1076 1076 960
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13182,7 +13146,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10070
-Encoding: 1077 1077 964
+Encoding: 1077 1077 961
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13197,7 +13161,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10072
-Encoding: 1078 1078 965
+Encoding: 1078 1078 962
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13214,7 +13178,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10073
-Encoding: 1079 1079 966
+Encoding: 1079 1079 963
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13228,7 +13192,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10074
-Encoding: 1080 1080 967
+Encoding: 1080 1080 964
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13245,7 +13209,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10075
-Encoding: 1081 1081 968
+Encoding: 1081 1081 965
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13263,7 +13227,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10076
-Encoding: 1082 1082 969
+Encoding: 1082 1082 966
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13277,7 +13241,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10077
-Encoding: 1083 1083 970
+Encoding: 1083 1083 967
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13290,7 +13254,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10078
-Encoding: 1084 1084 971
+Encoding: 1084 1084 968
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13305,7 +13269,7 @@ Refer: 10 60938 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10079
-Encoding: 1085 1085 972
+Encoding: 1085 1085 969
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13320,7 +13284,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10080
-Encoding: 1086 1086 973
+Encoding: 1086 1086 970
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13335,7 +13299,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10081
-Encoding: 1087 1087 974
+Encoding: 1087 1087 971
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13349,7 +13313,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10082
-Encoding: 1088 1088 975
+Encoding: 1088 1088 972
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13364,7 +13328,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10083
-Encoding: 1089 1089 976
+Encoding: 1089 1089 973
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13377,7 +13341,7 @@ Refer: 5 60933 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10084
-Encoding: 1090 1090 977
+Encoding: 1090 1090 974
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13391,7 +13355,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10085
-Encoding: 1091 1091 978
+Encoding: 1091 1091 975
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13406,7 +13370,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10086
-Encoding: 1092 1092 979
+Encoding: 1092 1092 976
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13423,7 +13387,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10087
-Encoding: 1093 1093 980
+Encoding: 1093 1093 977
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13436,7 +13400,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10088
-Encoding: 1094 1094 981
+Encoding: 1094 1094 978
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13451,7 +13415,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10089
-Encoding: 1095 1095 982
+Encoding: 1095 1095 979
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13465,7 +13429,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10090
-Encoding: 1096 1096 983
+Encoding: 1096 1096 980
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13481,7 +13445,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10091
-Encoding: 1097 1097 984
+Encoding: 1097 1097 981
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13498,7 +13462,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10092
-Encoding: 1098 1098 985
+Encoding: 1098 1098 982
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13513,7 +13477,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10093
-Encoding: 1099 1099 986
+Encoding: 1099 1099 983
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13529,7 +13493,7 @@ Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10094
-Encoding: 1100 1100 987
+Encoding: 1100 1100 984
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13544,7 +13508,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10095
-Encoding: 1101 1101 988
+Encoding: 1101 1101 985
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13554,12 +13518,11 @@ Refer: 0 60928 N 1 0 0 1 816 0 2
 Refer: 1 60929 N 1 0 0 1 816 0 2
 Refer: 2 60930 N 1 0 0 1 816 0 2
 Refer: 3 60931 N 1 0 0 1 816 0 2
-Refer: 6 60934 N 1 0 0 1 816 0 2
 Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10096
-Encoding: 1102 1102 989
+Encoding: 1102 1102 986
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13575,7 +13538,7 @@ Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10097
-Encoding: 1103 1103 990
+Encoding: 1103 1103 987
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13591,7 +13554,7 @@ Refer: 11 60939 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10071
-Encoding: 1105 1105 991
+Encoding: 1105 1105 988
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13606,7 +13569,7 @@ Refer: 7 60935 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: OE
-Encoding: 338 338 992
+Encoding: 338 338 989
 Width: 816
 VWidth: 200
 Flags: HW
@@ -13616,14 +13579,13 @@ Refer: 0 60928 N 1 0 0 1 816 0 2
 Refer: 3 60931 N 1 0 0 1 816 0 2
 Refer: 4 60932 N 1 0 0 1 816 0 2
 Refer: 5 60933 N 1 0 0 1 816 0 2
-Refer: 6 60934 N 1 0 0 1 816 0 2
 Refer: 7 60935 N 1 0 0 1 816 0 2
 Refer: 9 60937 N 1 0 0 1 816 0 2
 Refer: 12 60940 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: oe
-Encoding: 339 339 993
+Encoding: 339 339 990
 Width: 816
 VWidth: 200
 Flags: HW
