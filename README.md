@@ -2,6 +2,10 @@
 
 ## Modified version of keshikan's fantastic digital segment display font
 
+![DSEG Image](./sample/all_DSEG_list.png)
+
+[Entire glyph list (warning, large image)](./sample/complete-glyph-list.png)
+
 ### Changes:
 
 * Added Cyrillic alphabet (uppercase only for now)
@@ -59,6 +63,12 @@
   * 1, 2, 3, 5, 7, 
   * G, J, M, S, W, Y, Z,
   * i, j, w, 
+
+---
+
+Usage samples:
+
+![KLWP example](./sample/klwp01.png)
 
 ---
 
