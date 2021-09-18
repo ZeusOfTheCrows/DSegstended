@@ -4,7 +4,7 @@
 
 ![DSEG Image](./sample/all_DSEG_list.png)
 
-[Entire glyph list (warning, large image)](./sample/complete-glyph-list.png)
+[Entire glyph list (warning, large image)](./sample/glyphlist.md)
 
 ### Changes:
 
