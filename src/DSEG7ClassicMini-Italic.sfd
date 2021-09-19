@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409488158
-ModificationTime: 1596471414
+ModificationTime: 1632074870
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,7 +51,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 11
+WinInfo: 0 25 21
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 209715 104857 69905 513802 1048576 69905 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -818,8 +818,8 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 95 126 N 1 0 0 1 0 0 2
-Refer: 98 59 N 1 0 0 1 0 0 2
+Refer: 66 33 N 1 0 0 1 0 0 2
+Refer: 370 161 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: period
@@ -834,14 +834,14 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 65
-Width: 200
-VWidth: 0
+Width: 816
+VWidth: 200
 Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: asciitilde
-Encoding: 126 126 95
+StartChar: exclam
+Encoding: 33 33 66
 Width: 200
 VWidth: 0
 Flags: HW
@@ -1200,8 +1200,10 @@ VWidth: 200
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 73 10256 N 1 0 0 1 0 0 2
-Refer: 74 10272 N 1 0 0 1 0 0 2
+Refer: 70 10242 S 1 0 0 1 0 0 2
+Refer: 71 10244 S 1 0 0 1 0 0 2
+Refer: 73 10256 S 1 0 0 1 0 0 2
+Refer: 74 10272 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: less
@@ -1247,12 +1249,14 @@ Fore
 Refer: 74 10272 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: exclam
-Encoding: 33 33 66
+StartChar: asciitilde
+Encoding: 126 126 95
 Width: 816
 VWidth: 200
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 76 10304 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: asciicircum
@@ -1286,26 +1290,6 @@ Width: 200
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
-SplineSet
-180 693 m 0
- 180 684 178 676 175 669 c 0
- 172 662 168 655 162 649 c 0
- 156 643 149 639 142 636 c 0
- 135 633 127 631 118 631 c 0
- 109 631 101 633 94 636 c 0
- 87 639 80 643 74 649 c 0
- 68 655 64 662 61 669 c 0
- 58 676 56 684 56 693 c 0
- 56 702 58 710 61 717 c 0
- 64 724 68 730 74 736 c 0
- 80 742 87 747 94 750 c 0
- 101 753 109 754 118 754 c 0
- 127 754 135 753 142 750 c 0
- 149 747 156 742 162 736 c 0
- 168 730 172 724 175 717 c 0
- 178 710 180 702 180 693 c 0
-EndSplineSet
 EndChar
 
 StartChar: comma
@@ -1404,10 +1388,13 @@ VWidth: 200
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 70 10242 S 1 0 0 1 0 0 2
-Refer: 71 10244 S 1 0 0 1 0 0 2
-Refer: 73 10256 S 1 0 0 1 0 0 2
-Refer: 74 10272 S 1 0 0 1 0 0 2
+Refer: 76 10304 N 1 0 0 1 0 0 2
+Refer: 74 10272 N 1 0 0 1 0 0 2
+Refer: 73 10256 N 1 0 0 1 0 0 2
+Refer: 72 10248 N 1 0 0 1 0 0 2
+Refer: 71 10244 N 1 0 0 1 0 0 2
+Refer: 70 10242 N 1 0 0 1 0 0 2
+Refer: 69 10241 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: quotedbl
@@ -4816,7 +4803,25 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 98 59 N 1 0 0 1 0 0 2
+SplineSet
+180 693 m 0
+ 180 684 178 676 175 669 c 0
+ 172 662 168 655 162 649 c 0
+ 156 643 149 639 142 636 c 0
+ 135 633 127 631 118 631 c 0
+ 109 631 101 633 94 636 c 0
+ 87 639 80 643 74 649 c 0
+ 68 655 64 662 61 669 c 0
+ 58 676 56 684 56 693 c 0
+ 56 702 58 710 61 717 c 0
+ 64 724 68 730 74 736 c 0
+ 80 742 87 747 94 750 c 0
+ 101 753 109 754 118 754 c 0
+ 127 754 135 753 142 750 c 0
+ 149 747 156 742 162 736 c 0
+ 168 730 172 724 175 717 c 0
+ 178 710 180 702 180 693 c 0
+EndSplineSet
 EndChar
 
 StartChar: questiondown
