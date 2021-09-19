@@ -4,7 +4,7 @@
 
 ![DSEG Image](./sample/all_DSEG_list.png)
 
-[Entire glyph list (warning, large image)](./sample/glyphlist.md)
+[Entire glyph list (warning, large image at end)](./sample/glyphlist.md)
 
 ### Changes:
 
@@ -34,8 +34,9 @@
 
 * Added/changed various less significant punctuation marks:
 
-  * Pilcrow
+  * ¶ (pilcrow)
   * ¢ (cent mark)
+  * ₩ (won sign)
 
 * Changed the form of some characters 
 
