@@ -3,7 +3,7 @@ FontName: DSEG14Classic-BoldItalic
 FullName: DSEG14 Classic-Bold Italic
 FamilyName: DSEG14 Classic
 Weight: Bold
-Copyright: Created by Keshikan(https://twitter.com/keshinomi_88pro)\nExtended by ZeusOfTheCrows (https://zeusofthecrows.github.io/)\nwith FontForge 2.0 (http://fontforge.sf.net)
+Copyright: Created by Keshikan (https://twitter.com/keshinomi_88pro)\nModified by ZeusOfTheCrows (https://zeusofthecrows.github.io/)\nwith FontForge (http://fontforge.org)
 UComments: "2014-8-31: Created."
 Version: 1.0.0
 ItalicAngle: -5
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409488158
-ModificationTime: 1631889372
+ModificationTime: 1632077449
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5

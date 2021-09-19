@@ -3,9 +3,9 @@ FontName: DSEG7ClassicMini-Bold
 FullName: DSEG7 Classic Mini-Bold
 FamilyName: DSEG7 Classic Mini
 Weight: Bold
-Copyright: Created by Keshikan(https://twitter.com/keshinomi_88pro)\nwith FontForge 2.0 (http://fontforge.sf.net)
+Copyright: Created by Keshikan (https://twitter.com/keshinomi_88pro)\nModified by ZeusOfTheCrows (https://zeusofthecrows.github.io/)\nwith FontForge (http://fontforge.org)
 UComments: "2014-8-31: Created."
-Version: 0.46
+Version: 1.0.0
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409488158
-ModificationTime: 1632074266
+ModificationTime: 1632077297
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
