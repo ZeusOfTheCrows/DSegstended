@@ -3,9 +3,9 @@ FontName: DSEG7ModernMini-Regular
 FullName: DSEG7 Modern Mini-Regular
 FamilyName: DSEG7 Modern Mini
 Weight: Regular
-Copyright: Created by Keshikan(https://twitter.com/keshinomi_88pro)\nwith FontForge 2.0 (http://fontforge.sf.net)
+Copyright: Created by Keshikan (https://twitter.com/keshinomi_88pro)\nModified by ZeusOfTheCrows (https://zeusofthecrows.github.io/)\nwith FontForge (http://fontforge.org)
 UComments: "2014-8-31: Created."
-Version: 0.46
+Version: 1.0.0
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409488158
-ModificationTime: 1596471414
+ModificationTime: 1632078652
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -43,7 +43,7 @@ HheadDOffset: 1
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "Created by Keshikan+AAoA-with FontForge 2.0 (http://fontforge.sf.net)" "" "" "" "" "Version 0.46" "" "" "" "Keshikan(Twitter:@keshinomi_88pro)" "" "" "http://www.keshikan.net" "Copyright (c) 2018, keshikan (http://www.keshikan.net),+AAoA-with Reserved Font Name +ACIA-DSEG+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "" "" "" "DSEG.7 12:34"
+LangName: 1033 "Created by Keshikan+AAoA-with FontForge 2.0 (http://fontforge.sf.net)" "" "" "" "" "Version 1.0.0" "" "" "" "Keshikan(Twitter:@keshinomi_88pro)" "" "" "http://www.keshikan.net" "Copyright (c) 2018, keshikan (http://www.keshikan.net),+AAoA-with Reserved Font Name +ACIA-DSEG+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "" "" "" "DSEG.7 12:34"
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -51,7 +51,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 11
+WinInfo: 0 25 21
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 209715 104857 69905 513802 1048576 69905 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -818,8 +818,8 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 95 126 N 1 0 0 1 0 0 2
-Refer: 98 59 N 1 0 0 1 0 0 2
+Refer: 370 161 N 1 0 0 1 0 0 2
+Refer: 66 33 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: period
@@ -834,14 +834,14 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 65
-Width: 200
-VWidth: 0
+Width: 816
+VWidth: 200
 Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: asciitilde
-Encoding: 126 126 95
+StartChar: exclam
+Encoding: 33 33 66
 Width: 200
 VWidth: 0
 Flags: HW
@@ -1188,8 +1188,10 @@ VWidth: 200
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 73 10256 N 1 0 0 1 0 0 2
-Refer: 74 10272 N 1 0 0 1 0 0 2
+Refer: 70 10242 S 1 0 0 1 0 0 2
+Refer: 71 10244 S 1 0 0 1 0 0 2
+Refer: 73 10256 S 1 0 0 1 0 0 2
+Refer: 74 10272 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: less
@@ -1235,12 +1237,14 @@ Fore
 Refer: 74 10272 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: exclam
-Encoding: 33 33 66
+StartChar: asciitilde
+Encoding: 126 126 95
 Width: 816
 VWidth: 200
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 76 10304 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: asciicircum
@@ -1274,26 +1278,6 @@ Width: 200
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
-SplineSet
-162 693 m 0
- 162 684 160 676 157 669 c 0
- 154 662 150 655 144 649 c 0
- 138 643 131 639 124 636 c 0
- 117 633 109 631 100 631 c 0
- 91 631 83 633 76 636 c 0
- 69 639 62 643 56 649 c 0
- 50 655 46 662 43 669 c 0
- 40 676 38 684 38 693 c 0
- 38 702 40 710 43 717 c 0
- 46 724 50 730 56 736 c 0
- 62 742 69 747 76 750 c 0
- 83 753 91 754 100 754 c 0
- 109 754 117 753 124 750 c 0
- 131 747 138 742 144 736 c 0
- 150 730 154 724 157 717 c 0
- 160 710 162 702 162 693 c 0
-EndSplineSet
 EndChar
 
 StartChar: comma
@@ -1392,10 +1376,13 @@ VWidth: 200
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 70 10242 S 1 0 0 1 0 0 2
-Refer: 71 10244 S 1 0 0 1 0 0 2
-Refer: 73 10256 S 1 0 0 1 0 0 2
-Refer: 74 10272 S 1 0 0 1 0 0 2
+Refer: 76 10304 N 1 0 0 1 0 0 2
+Refer: 74 10272 N 1 0 0 1 0 0 2
+Refer: 73 10256 N 1 0 0 1 0 0 2
+Refer: 72 10248 N 1 0 0 1 0 0 2
+Refer: 71 10244 N 1 0 0 1 0 0 2
+Refer: 70 10242 N 1 0 0 1 0 0 2
+Refer: 69 10241 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: quotedbl
@@ -4804,7 +4791,25 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 98 59 N 1 0 0 1 0 0 2
+SplineSet
+162 693 m 0
+ 162 684 160 676 157 669 c 0
+ 154 662 150 655 144 649 c 0
+ 138 643 131 639 124 636 c 0
+ 117 633 109 631 100 631 c 0
+ 91 631 83 633 76 636 c 0
+ 69 639 62 643 56 649 c 0
+ 50 655 46 662 43 669 c 0
+ 40 676 38 684 38 693 c 0
+ 38 702 40 710 43 717 c 0
+ 46 724 50 730 56 736 c 0
+ 62 742 69 747 76 750 c 0
+ 83 753 91 754 100 754 c 0
+ 109 754 117 753 124 750 c 0
+ 131 747 138 742 144 736 c 0
+ 150 730 154 724 157 717 c 0
+ 160 710 162 702 162 693 c 0
+EndSplineSet
 EndChar
 
 StartChar: questiondown
