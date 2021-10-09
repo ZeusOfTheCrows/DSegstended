@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409488158
-ModificationTime: 1633806011
+ModificationTime: 1633808076
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,7 +50,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 65125 25 21
+WinInfo: 625 25 21
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 209715 104857 69905 930087 1048576 69905 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -1703,10 +1703,12 @@ EndChar
 
 StartChar: u00A0
 Encoding: 160 160 113
-Width: 200
+Width: 816
 VWidth: 0
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 18 32 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u00A1
@@ -9588,7 +9590,7 @@ StartChar: uFF4E
 Encoding: 65358 65358 709
 Width: 816
 VWidth: 200
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 2 60930 N 1 0 0 1 816 0 2
@@ -10587,7 +10589,7 @@ VWidth: 200
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 0 60928 N 1 0 0 1 816 0 2
+Refer: 119 175 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uFFE4
@@ -11433,14 +11435,14 @@ StartChar: afii10025
 Encoding: 1047 1047 855
 Width: 816
 VWidth: 200
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 Refer: 0 60928 N 1 0 0 1 816 0 2
+Refer: 2 60930 N 1 0 0 1 816 0 2
 Refer: 3 60931 N 1 0 0 1 816 0 2
-Refer: 6 60934 N 1 0 0 1 816 0 2
+Refer: 7 60935 N 1 0 0 1 816 0 2
 Refer: 10 60938 N 1 0 0 1 816 0 2
-Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 
 StartChar: afii10026
@@ -12994,7 +12996,20 @@ VWidth: 200
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 21 35 N 1 0 0 1 0 0 2
+Refer: 0 60928 N 1 0 0 1 816 0 2
+Refer: 1 60929 N 1 0 0 1 816 0 2
+Refer: 2 60930 N 1 0 0 1 816 0 2
+Refer: 3 60931 N 1 0 0 1 816 0 2
+Refer: 4 60932 N 1 0 0 1 816 0 2
+Refer: 5 60933 N 1 0 0 1 816 0 2
+Refer: 6 60934 N 1 0 0 1 816 0 2
+Refer: 7 60935 N 1 0 0 1 816 0 2
+Refer: 8 60936 N 1 0 0 1 816 0 2
+Refer: 9 60937 N 1 0 0 1 816 0 2
+Refer: 10 60938 N 1 0 0 1 816 0 2
+Refer: 11 60939 N 1 0 0 1 816 0 2
+Refer: 12 60940 N 1 0 0 1 816 0 2
+Refer: 13 60941 N 1 0 0 1 816 0 2
 EndChar
 EndChars
 EndSplineFont
