@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409488158
-ModificationTime: 1633873318
+ModificationTime: 1633949829
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -50,11 +50,11 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 51 21
+WinInfo: 65127 51 21
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 209715 104857 69905 930087 1048576 69905 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 995
+BeginChars: 1114112 996
 
 StartChar: uEE00
 Encoding: 60928 60928 0
@@ -12911,6 +12911,16 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 53 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFFE0
+Encoding: 65504 65504 995
+Width: 816
+VWidth: 200
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 930 162 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
