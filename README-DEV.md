@@ -47,9 +47,7 @@
    punctuation ─► fullwidth punctuation
 
   ┌──────────────────────────────────────────────────┐
-  │/ ─► norwegian Ø, | ─► cyrillic Ф, # ─► Sigma null│
-  │                                                  │
-  │- ─► fullwidth 7, FULLWIDTH Z, mu ─► micro sign   │
+  │/ ─► norwegian Ø, mu ─► micro sign                │
   │- ─► yen sign ¥, - ─► tilde ~, soft hyphen        │
   └──────────────────────────────────────────────────┘
  
